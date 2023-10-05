@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EMI CALCULATOR</string>
+
+    <string name="amortization_period_helperText">Example: 25 Years</string>
+    <string name="amortization_period_hint">Amortization Period (Years) </string>
+
+    <string name="calculate_button_text">CALCULATE EMI</string>
+
+    <string name="calculation_result_text">YOUR CALCULATED EMI IS $%1$.2f / MONTH</string>
+    <string name="calculation_result_error_text">FAILED TO CALCULATE EMI: INVALID INPUT DETECTED</string>
+
+    <string name="interest_rate_helperText">Example: 6.71 %</string>
+    <string name="interest_rate_hint">Interest Rate</string>
+
+    <string name="mortgage_principal_amount_helperText">Example: $ 9 000 000</string>
+    <string name="mortgage_principal_amount_hint">Mortgage Principal Amount</string>
+
+</resources>
